@@ -44,7 +44,7 @@ or see orange / grey: https://github.com/TYPO3-Documentation/images/blob/master/
 Downloads
 =========
 
-* `orange / grey (zip) <https://github.com/TYPO3-Documentation/images/blob/master/downloads/primary-orange-grey.zip>`__
+* `orange / grey (zip) <https://github.com/TYPO3-Documentation/images/raw/master/downloads/primary-orange-grey.zip>`__
 
 Sample images
 =============
