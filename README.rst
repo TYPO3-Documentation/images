@@ -8,35 +8,35 @@ Preview Shapes
 ==============
 
 
-.. image:: arrow_down_preview.png
+.. image:: primary_orange_grey/arrow_down_preview.png
 
-.. image:: arrow_left_preview.png
+.. image:: primary_orange_grey/arrow_left_preview.png
 
-.. image:: arrow_up_preview.png
+.. image:: primary_orange_grey/arrow_up_preview.png
 
-.. image:: box_orange_preview.png
+.. image:: primary_orange_grey/box_orange_preview.png
 
-.. image:: box_orange+shadow_preview.png
+.. image:: primary_orange_grey/box_orange+shadow_preview.png
 
-.. image:: drop_preview.png
+.. image:: primary_orange_grey/drop_preview.png
 
-.. image:: four_drop+white_border+shadow_preview.png
+.. image:: primary_orange_grey/four_drop+white_border+shadow_preview.png
 
-.. image:: four_grey_border_preview.png
+.. image:: primary_orange_grey/four_grey_border_preview.png
 
-.. image:: one_drop+white_border+drop_shadow_preview.png
+.. image:: primary_orange_grey/one_drop+white_border+drop_shadow_preview.png
 
-.. image:: one_grey_border_preview.png
+.. image:: primary_orange_grey/one_grey_border_preview.png
 
-.. image:: one_white_border+drop_shadow_preview.png
+.. image:: primary_orange_grey/one_white_border+drop_shadow_preview.png
 
-.. image:: three_drop+white_border+shadow_preview.png
+.. image:: primary_orange_grey/three_drop+white_border+shadow_preview.png
 
-.. image:: three_grey_border_preview.png
+.. image:: primary_orange_grey/three_grey_border_preview.png
 
-.. image:: two_drop+white_border+shadow_preview.png
+.. image:: primary_orange_grey/two_drop+white_border+shadow_preview.png
 
-.. image:: two_grey_border_preview.png
+.. image:: primary_orange_grey/two_grey_border_preview.png
 
 
 or see orange / grey: https://github.com/TYPO3-Documentation/images/blob/master/primary_orange_grey/Images.rst
@@ -52,7 +52,7 @@ Sample images
 Here are some `examples <https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-HowToDocument/issues/11#issuecomment-451732326>`__
 of images in the TYPO3 documentation that combine screenshots with shapes.
 
-Currently, the shapes are not used consistently. 
+Currently, the shapes are not used consistently.
 
 
 Resources
