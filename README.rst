@@ -7,25 +7,18 @@ Preview Shapes
 ==============
 
 
-
+`preview <https://github.com/TYPO3-Documentation/images/blob/master/design-team/icons_preview/Images.rst>`__
 
 
 Downloads
 =========
 
+`icons.zip <https://raw.githubusercontent.com/TYPO3-Documentation/images/master/design-team/archive/icons.zip>`__
 
-
-Sample images
-=============
-
-
-
-Resources
-=========
-
-* `Web Style Guide <https://styleguide.typo3.org/patternlab/public/index.html>`__
 
 Documentation
 =============
 
+
+* short: `documentation-styles-manual.pdf <https://raw.githubusercontent.com/TYPO3-Documentation/images/master/design-team/documentation/documentation-styles-manual.pdf>`__
 * `Guidelines for Images <https://docs.typo3.org/typo3cms/HowToDocument/GeneralConventions/GuidelinesForImages.html>`__
