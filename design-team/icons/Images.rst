@@ -1,5 +1,9 @@
 .. image:: arrow_preview.png
- 
+
+.. image:: arrow+shadow_preview.png
+
+.. image:: rectangle_preview.png
+
 .. image:: number_1_preview.png
  
 .. image:: number_2_preview.png
