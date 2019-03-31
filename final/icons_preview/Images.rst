@@ -34,6 +34,8 @@
  
 .. image:: number_8_preview.png
  
+.. image:: number_9_circle_preview.png
+ 
 .. image:: number_9_preview.png
  
 .. image:: number-down_1_preview.png

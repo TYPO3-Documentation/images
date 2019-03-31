@@ -30,25 +30,33 @@
   <desc
      id="desc4">Created with Sketch.</desc>
   <g
-     id="g3488">
-    <circle
-       r="10.779661"
-       cy="10.779662"
-       cx="10.779662"
-       id="path850"
-       style="fill:#f49800;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       y="-5.3961191"
-       x="-6.5549345"
-       id="1-8"
-       font-size="16"
-       font-weight="bold"
-       line-spacing="24"
-       style="font-weight:bold;font-size:16px;font-family:SourceSansPro-Bold, 'Source Sans Pro';fill:#f4f4f4;fill-rule:evenodd;stroke:none;stroke-width:1">
-      <tspan
-         x="5.2210684"
-         y="16.603882"
-         id="tspan1058">8</tspan>
-    </text>
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="Number"
+     transform="translate(-5.2881341,-4.3389818)">
+    <g
+       id="g10">
+      <g
+         id="g2442">
+        <circle
+           r="10.779661"
+           cy="15.118644"
+           cx="16.067797"
+           id="path850"
+           style="fill:#f49800;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           style="font-weight:bold;font-size:16px;font-family:SourceSansPro-Bold, 'Source Sans Pro';fill:#f4f4f4;fill-rule:evenodd;stroke:none;stroke-width:1"
+           line-spacing="24"
+           font-weight="bold"
+           font-size="16"
+           id="1"
+           x="-1.1769524"
+           y="-1.0649515">
+          <tspan
+             id="tspan7-3"
+             y="20.935051"
+             x="10.599047">9</tspan>
+        </text>
+      </g>
+    </g>
   </g>
 </svg>
