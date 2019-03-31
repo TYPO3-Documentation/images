@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Number Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-269.000000, -115.000000)">
+            <g id="Number" transform="translate(269.000000, 115.000000)">
+                <g>
+                    <path d="M3.42857143,0 L28.5714286,0 C30.465,0 32,1.535 32,3.42857143 L32,28.5714286 C32,30.465 30.465,32 28.5714286,32 L3.42857143,32 C1.535,32 0,30.465 0,28.5714286 L0,3.42857143 C0,1.535 1.535,0 3.42857143,0 Z" id="Shape" fill="#F49700" fill-rule="nonzero"></path>
+                    <text id="1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" line-spacing="24" fill="#F4F4F4">
+                        <tspan x="11.776" y="22">2</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
