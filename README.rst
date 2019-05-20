@@ -11,9 +11,14 @@ Goals of Project
 
 * make it easier for contributors to use already existing icons
 * give the images in the official TYPO3 documentation a consistent look
-* make sure images conform to `TYPO3 style guide
+* make sure images conform to TYPO3 style guide: https://typo3.org/project/brand/style-guide/
 
 Example:
+
+.. image:: examples/TextInColumnsFrontend.png
+
+https://raw.githubusercontent.com/TYPO3-Documentation/images/master/final/examples/TextInColumnsFrontend.png
+
 
 
 Downloads
