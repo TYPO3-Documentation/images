@@ -51,7 +51,7 @@ Proposals
 This is still a work in progress! So, there are currently no final images that have already
 been agreed on.
 
-See subdirectory "icons": https://github.com/TYPO3-Documentation/images/tree/master/icons
+See subdirectory "icons-collections": https://github.com/TYPO3-Documentation/images/tree/master/icon-collections
 
 
 Documentation
