@@ -6,40 +6,53 @@ Sample shapes that can be used in images in TYPO3 documentation, specifically fo
 creating images out of screenshots combined with boxes, arrows, numbers etc.
 
 
+**This is still a work in progress.**
+
+
 Goals of Project
 ================
 
-* make it easier for contributors to use already existing icons
+* make it easier for contributors to use already existing icons for images
 * give the images in the official TYPO3 documentation a consistent look
 * make sure images conform to TYPO3 style guide: https://typo3.org/project/brand/style-guide/
 
-Example:
+Examples
+========
 
-.. image:: examples/TextInColumnsFrontend.png
+Examples of screenshots with numbers, arrows, boxes etc.
 
-https://raw.githubusercontent.com/TYPO3-Documentation/images/master/final/examples/TextInColumnsFrontend.png
+More examples can be found in this issue: https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-HowToDocument/issues/11
 
 
+Examples for numbers:
 
-Downloads
+* docs: https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/SiteHandling/CreateNew.html
+* image: https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/_images/SiteHandlingCreateNewSite-2.png
+
+Examples with arrows:
+
+* docs: https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/OtherBackendModules/SystemModules/Index.html
+* image: https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/_images/BackendLogModule.png
+
+* docs: https://docs.typo3.org/m/typo3/reference-inside/8.7/en-us/CoreArchitecture/BackendModules/FunctionMenuModules/Index.html
+* image: https://docs.typo3.org/m/typo3/reference-inside/8.7/en-us/_images/BackendModulesFunctionMenu.png
+
+
+Arrows and numbers:
+
+* docs: https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/UsingSetting/Index.html
+* image: https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/_images/TSconfigPageInput.png
+
+
+Proposals
 =========
 
-Zipfile: https://raw.githubusercontent.com/TYPO3-Documentation/images/master/final/archive/typo3-documentation-icons-1.0.0.zip
 
+This is still a work in progress! So, there are currently no final images that have already
+been agreed on.
 
-Icons
-=====
+See subdirectory "icons": https://github.com/TYPO3-Documentation/images/tree/master/icons
 
-https://github.com/TYPO3-Documentation/images/blob/master/final/icons
-
-Preview Shapes
-==============
-
-This is a preview. This should render nicely on GitHub.
-
-`preview <https://github.com/TYPO3-Documentation/images/blob/master/final/icons_preview/Images.rst>`__
-
-Do not use the icons in "icons_preview" in your images, use the icons in "icons".
 
 Documentation
 =============
@@ -47,18 +60,22 @@ Documentation
 * `Guidelines for Images <https://docs.typo3.org/typo3cms/HowToDocument/GeneralConventions/GuidelinesForImages.html>`__
 * TYPO3 Online Style Guide: https://typo3.org/project/brand/style-guide/
 
+Issues
+======
 
-Overview of Versions
-====================
+About the images
 
-Preferably, only the variants in "final" should be used in the documentation.
+* https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-HowToDocument/issues/11
+* https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-HowToDocument/issues/61
 
-This is still a work in progress! So you may find, that there are
-currently no images in "final" or they might change in the future.
+Finding a workflow
 
-* **final**: this is to be the final version
-* **work-in-progress+drafts** : proposals and draft versions
+* https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-HowToDocument/issues/158
 
-  * 01-primary_orange_grey: Proposal (Sybille)
-  * 02-design-team: Proposal by Design Team
-  * 03-combination: Combination of proposal by design team with some additions (Sybille)
+Necessary steps
+===============
+
+#. Create "styleguide" for images (how should images look)?
+#. Create custom icons for arrows, numbers etc. to be used in the images
+#. Figure out an example workflow, see https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-HowToDocument/issues/158
+#. Document the guidelines, workflow etc., see `Guidelines for Images <https://docs.typo3.org/typo3cms/HowToDocument/GeneralConventions/GuidelinesForImages.html>`__
